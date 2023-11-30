@@ -1,0 +1,14 @@
+body {
+    background-image: url('https://rankiapro.com/es/wp-content/uploads/2021/04/libros-favoritos-selectores-fondos.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: rgba(255, 255, 255, 0.5); /* Ajusta el último valor para la opacidad */
+  }
+  
+
+.titulo{
+    font-size: 1.8rem;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
